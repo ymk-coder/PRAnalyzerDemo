@@ -1,2 +1,2 @@
-# PRAnalyzerWebAPI
-Sample .NET 8 WebAPI for PR Review Analyzer
+# PRAnalyzerDemo
+AI PR Review Demo - .NET 8 WebAPI
